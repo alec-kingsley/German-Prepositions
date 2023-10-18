@@ -1,0 +1,16 @@
+nouns should be given as such: nominative singular, genetive singular, nominative plural, gender, translation
+for example:
+Name Namens Namen m name
+
+nouns {
+Zeit Zeit Zeiten f time
+Mann Manns Maenner m man
+Hand Hand Haende f hand
+Tag Tags Tage m day
+Weg Wegs Wege m way
+Auge Auges Augen n eye
+Ding Dings Dinge n thing
+Kopf Kopfs Koepfe m head
+Jahr Jahrs Jahre n year
+Zimmer Zimmers Zimmer n room
+}
